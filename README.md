@@ -1,1 +1,1 @@
-# en2091-guitar-headphone-amp
+# EN2091 Analog Project - Guitar Headphone Amplifier
