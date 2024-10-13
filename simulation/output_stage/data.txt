@@ -1,0 +1,2 @@
+the v1 file is using a push pull thing witha  unity gain buffer but it does not worl well in some cases so please refer to the darlington_v2 file
+  im just incudig the v1 file for comparison purposes
