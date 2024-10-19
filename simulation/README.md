@@ -1,1 +1,1 @@
-we are using this folder to store the LTspice schematics ig
+![image](https://github.com/user-attachments/assets/602498f0-b532-4868-9e2d-bbb6d3e66ff3)
