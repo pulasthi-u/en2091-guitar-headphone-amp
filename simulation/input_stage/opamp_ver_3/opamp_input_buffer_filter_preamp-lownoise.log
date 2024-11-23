@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\Nilakna\OneDrive - University of Moratuwa\Github\en2091-guitar-headphone-amp\simulation\input_stage\opamp_ver_3\opamp_input_buffer_filter_preamp-lownoise.asc
-Start Time: Thu Oct 31 23:31:44 2024
+Start Time: Sat Nov 23 13:38:43 2024
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -30,5 +30,5 @@ Gmin = 0
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.477 seconds.
+Total elapsed time: 0.440 seconds.
 
